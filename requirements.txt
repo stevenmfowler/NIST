@@ -1,0 +1,6 @@
+requests
+pandas
+torch
+openpyxl
+networkx
+matplotlib
